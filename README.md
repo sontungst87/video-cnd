@@ -1,1 +1,1 @@
-# video-cnd
+# video-cdn
